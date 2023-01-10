@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="150"/>
   <div id="badges">
-    <a href="www.linkedin.com/in/taylor-rodewald">
+    <a href="https://www.linkedin.com/in/taylor-rodewald/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a herf="https://twitter.com/rodewald_taylor">
@@ -19,7 +19,7 @@
 - :point_right: I am a Web Developer based in Minnesota, USA
 - 🔭 I’m currently working on completing my course in Web Development at OpenClassrooms
 - 🌱 I’m currently learning Vue.js!
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-TaylorRodewald-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/taylor-rodewald)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-TaylorRodewald-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taylor-rodewald/)
 
 ---
 
