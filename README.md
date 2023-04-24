@@ -14,8 +14,8 @@
 
 ### :woman_technologist: About Me:
 - :point_right: I am a Web Developer based in Minnesota, USA
-- 🔭 I’m currently working on completing my course in Web Development at OpenClassrooms
-- 🌱 I’m currently learning Vue.js!
+- 📚 I recently completed the Web Development course at OpenClassrooms
+- 🌱 I’m currently working on my portfolio!
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-TaylorRodewald-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taylor-rodewald/)
 
 ---
@@ -29,6 +29,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>
 </div>
 
 ---
